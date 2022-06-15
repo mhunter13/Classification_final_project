@@ -1,0 +1,698 @@
+Price,Prop_type,Size,Bath,Bed,City,Division
+470,Condo/Apartment,60,1,1,Odivelas,Odivelas
+500,Condo/Apartment,30,0,0,Amadora,Mina de Água
+500,Condo/Apartment,57,1,2,Azambuja,Vila Nova da Rainha
+500,Condo/Apartment,51,1,1,Lisboa,Ajuda
+500,Condo/Apartment,43,1,0,Sintra,Cacém e São Marcos
+500,Condo/Apartment,80,1,2,Vila Franca de Xira,Póvoa de Santa Iria e Forte da Casa
+550,Condo/Apartment,70,1,2,Amadora,Falagueira  Venda Nova
+550,Condo/Apartment,86,1,2,Sobral de Monte Agraço,Sobral de Monte Agraço
+575,Condo/Apartment,35,1,0,Amadora,Águas Livres
+575,Condo/Apartment,58,1,2,Loures,Bucelas
+580,Condo/Apartment,25,1,0,Oeiras,Algés
+580,Condo/Apartment,106,1,1,Torres Vedras,A dos Cunhados e Maceira
+590,Condo/Apartment,56,1,1,Sintra,Queluz e Belas
+600,Condo/Apartment,77,1,2,Alenquer,Carregado e Cadafais
+600,Condo/Apartment,117,1,2,Loures,Santa Iria de Azoia
+600,Condo/Apartment,132,1,1,Sintra,AlgueirãoMem Martins
+600,Condo/Apartment,42,0,1,Sintra,Massamá e Monte Abraão
+600,Condo/Apartment,54,1,1,Sintra,Queluz e Belas
+600,Condo/Apartment,47,1,1,Sintra,Rio de Mouro
+600,Condo/Apartment,77,1,2,Vila Franca de Xira,Alverca do Ribatejo e Sobralinho
+600,Condo/Apartment,80,1,2,Vila Franca de Xira,Póvoa de Santa Iria e Forte da Casa
+625,Condo/Apartment,43,1,1,Amadora,Águas Livres
+640,Condo/Apartment,88,2,1,Amadora,Mina de Água
+650,Condo/Apartment,50,1,1,Amadora,Águas Livres
+650,Condo/Apartment,32,1,0,Lisboa,Beato
+650,Condo/Apartment,30,1,2,Lisboa,Campo de Ourique
+650,Condo/Apartment,43,1,1,Loures,Sacavém e Prior Velho
+650,Condo/Apartment,58,1,1,Sintra,Agualva e MiraSintra
+650,Condo/Apartment,39,1,0,Sintra,AlgueirãoMem Martins
+650,Condo/Apartment,60,1,1,Sintra,Cacém e São Marcos
+650,Condo/Apartment,48,1,1,Sintra,Massamá e Monte Abraão
+650,Condo/Apartment,68,1,1,Sintra,Rio de Mouro
+650,Condo/Apartment,78,1,2,Vila Franca de Xira,Castanheira do Ribatejo e Cachoeiras
+650,Condo/Apartment,69,1,2,Vila Franca de Xira,Castanheira do Ribatejo e Cachoeiras
+650,Condo/Apartment,70,1,2,Vila Franca de Xira,Vialonga
+650,Condo/Apartment,79,2,2,Vila Franca de Xira,Vila Franca de Xira
+670,Condo/Apartment,45,1,1,Oeiras,Oeiras e São Julião da Barra
+680,Condo/Apartment,41,1,1,Loures,Moscavide e Portela
+690,Condo/Apartment,76,1,2,Vila Franca de Xira,Alhandra
+700,Condo/Apartment,70,1,1,Amadora,Águas Livres
+700,Condo/Apartment,82,1,2,Amadora,Águas Livres
+700,Condo/Apartment,75,1,2,Amadora,Falagueira  Venda Nova
+700,Condo/Apartment,62,1,2,Amadora,Venteira
+700,Condo/Apartment,50,1,0,Lisboa,Campo de Ourique
+700,Condo/Apartment,63,1,2,Loures,Loures
+700,Condo/Apartment,112,2,3,Odivelas,Pontinha e Famões
+700,Condo/Apartment,65,0,2,Odivelas,Pontinha e Famões
+700,Condo/Apartment,123,1,1,Oeiras,Algés
+700,Condo/Apartment,43,1,2,Sintra,Agualva e MiraSintra
+700,Condo/Apartment,68,1,2,Sintra,Agualva e MiraSintra
+700,Condo/Apartment,70,1,2,Sintra,Cacém e São Marcos
+700,Condo/Apartment,72,1,2,Sintra,Massamá e Monte Abraão
+700,Condo/Apartment,85,1,3,Vila Franca de Xira,Alhandra
+700,Condo/Apartment,63,1,2,Vila Franca de Xira,Alverca do Ribatejo e Sobralinho
+700,Condo/Apartment,92,1,3,Vila Franca de Xira,Vila Franca de Xira
+720,Condo/Apartment,132,2,3,Azambuja,Azambuja
+725,Condo/Apartment,58,1,1,Lisboa,Campo de Ourique
+730,Condo/Apartment,53,1,1,Lisboa,Benfica
+730,Condo/Apartment,50,1,1,Lisboa,São Vicente
+750,Condo/Apartment,78,1,2,Alenquer,Carregado e Cadafais
+750,Condo/Apartment,98,2,3,Amadora,Venteira
+750,Condo/Apartment,62,1,2,Amadora,Venteira
+750,Condo/Apartment,60,1,1,Cascais,São Domingos de Rana
+750,Condo/Apartment,62,0,1,Lisboa,Areeiro
+750,Condo/Apartment,60,1,1,Lisboa,Arroios
+750,Condo/Apartment,60,1,1,Lisboa,Avenidas Novas
+750,Condo/Apartment,45,1,1,Lisboa,Avenidas Novas
+750,Condo/Apartment,40,1,1,Lisboa,Belém
+750,Condo/Apartment,46,1,1,Lisboa,Campo de Ourique
+750,Condo/Apartment,35,1,1,Lisboa,Estrela
+750,Condo/Apartment,48,1,2,Lisboa,Penha de França
+750,Condo/Apartment,65,1,1,Lisboa,Penha de França
+750,Condo/Apartment,92,1,2,Lisboa,Santa Clara
+750,Condo/Apartment,68,0,1,Lisboa,São Vicente
+750,Condo/Apartment,60,1,2,Loures,Loures
+750,Condo/Apartment,95,1,2,Loures,Loures
+750,Condo/Apartment,70,1,2,Loures,Moscavide e Portela
+750,Condo/Apartment,45,1,1,Loures,Moscavide e Portela
+750,Condo/Apartment,55,1,2,Loures,Santo António dos Cavaleiros e Frielas
+750,Condo/Apartment,75,1,3,Loures,Santo António dos Cavaleiros e Frielas
+750,Condo/Apartment,70,1,2,Odivelas,Odivelas
+750,Condo/Apartment,84,1,3,Odivelas,Ramada e Caneças
+750,Condo/Apartment,39,1,1,Oeiras,Algés
+750,Condo/Apartment,75,0,2,Oeiras,Carnaxide e Queijas
+750,Condo/Apartment,75,1,2,Oeiras,Oeiras e São Julião da Barra
+750,Condo/Apartment,46,1,1,Oeiras,Oeiras e São Julião da Barra
+750,Condo/Apartment,91,1,2,Sintra,Agualva e MiraSintra
+750,Condo/Apartment,75,1,3,Sintra,AlgueirãoMem Martins
+750,Condo/Apartment,74,1,1,Sintra,Cacém e São Marcos
+750,Condo/Apartment,88,1,2,Sintra,Massamá e Monte Abraão
+750,Condo/Apartment,85,1,1,Sintra,Massamá e Monte Abraão
+750,Condo/Apartment,60,1,2,Sintra,Queluz e Belas
+750,Condo/Apartment,53,1,1,Sintra,Queluz e Belas
+750,Condo/Apartment,66,1,1,Sintra,Rio de Mouro
+750,Condo/Apartment,63,1,2,Sintra,Rio de Mouro
+750,Condo/Apartment,73,1,2,Vila Franca de Xira,Vila Franca de Xira
+775,Condo/Apartment,83,2,2,Vila Franca de Xira,Vila Franca de Xira
+780,Condo/Apartment,40,1,1,Lisboa,São Domingos de Benfica
+795,Condo/Apartment,65,1,2,Odivelas,Odivelas
+800,Condo/Apartment,83,1,2,Amadora,Alfragide
+800,Condo/Apartment,75,1,2,Amadora,Mina de Água
+800,Condo/Apartment,98,2,3,Amadora,Venteira
+800,Condo/Apartment,69,1,1,Cascais,Carcavelos e Parede
+800,Condo/Apartment,65,1,1,Cascais,Carcavelos e Parede
+800,Condo/Apartment,40,1,1,Lisboa,Ajuda
+800,Condo/Apartment,42,1,1,Lisboa,Avenidas Novas
+800,Condo/Apartment,65,1,2,Lisboa,Benfica
+800,Condo/Apartment,70,1,1,Lisboa,Benfica
+800,Condo/Apartment,70,1,2,Lisboa,Benfica
+800,Condo/Apartment,45,0,1,Lisboa,Estrela
+800,Condo/Apartment,45,0,1,Lisboa,Estrela
+800,Condo/Apartment,30,1,1,Lisboa,Misericórdia
+800,Condo/Apartment,50,1,1,Lisboa,Penha de França
+800,Condo/Apartment,35,1,2,Lisboa,São Domingos de Benfica
+800,Condo/Apartment,66,1,2,Loures,Camarate
+800,Condo/Apartment,96,2,3,Loures,Moscavide e Portela
+800,Condo/Apartment,75,0,2,Loures,Santo António dos Cavaleiros e Frielas
+800,Condo/Apartment,88,1,2,Loures,Santo António dos Cavaleiros e Frielas
+800,Condo/Apartment,67,1,2,Loures,Santo António dos Cavaleiros e Frielas
+800,Condo/Apartment,78,1,2,Odivelas,Odivelas
+800,Condo/Apartment,62,1,2,Odivelas,Odivelas
+800,Condo/Apartment,98,2,3,Odivelas,Odivelas
+800,Condo/Apartment,83,1,2,Oeiras,Algés
+800,Condo/Apartment,87,1,2,Sintra,Queluz e Belas
+820,Condo/Apartment,90,1,3,Loures,Moscavide e Portela
+820,Condo/Apartment,91,1,2,Oeiras,Algés
+825,Condo/Apartment,78,1,2,Lisboa,Benfica
+835,Condo/Apartment,210,1,2,Lisboa,Lumiar
+850,Condo/Apartment,133,1,2,Amadora,Águas Livres
+850,Condo/Apartment,71,0,2,Amadora,Venteira
+850,Condo/Apartment,71,0,3,Amadora,Venteira
+850,Condo/Apartment,88,2,2,Cascais,Carcavelos e Parede
+850,Condo/Apartment,45,1,1,Cascais,Carcavelos e Parede
+850,Condo/Apartment,90,1,1,Cascais,Cascais e Estoril
+850,Condo/Apartment,35,1,0,Cascais,Cascais e Estoril
+850,Condo/Apartment,75,1,1,Lisboa,Avenidas Novas
+850,Condo/Apartment,680,1,2,Lisboa,Beato
+850,Condo/Apartment,50,1,1,Lisboa,Estrela
+850,Condo/Apartment,70,1,1,Lisboa,Lumiar
+850,Condo/Apartment,89,1,2,Lisboa,Lumiar
+850,Condo/Apartment,48,1,0,Lisboa,Olivais
+850,Condo/Apartment,72,1,3,Lisboa,Olivais
+850,Condo/Apartment,63,1,1,Lisboa,São Domingos de Benfica
+850,Condo/Apartment,57,1,2,Lisboa,São Vicente
+850,Condo/Apartment,60,1,2,Loures,Sacavém e Prior Velho
+850,Condo/Apartment,68,1,2,Odivelas,Odivelas
+850,Condo/Apartment,63,1,2,Oeiras,Algés
+850,Condo/Apartment,97,1,2,Oeiras,Algés
+850,Condo/Apartment,90,2,2,Sintra,Cacém e São Marcos
+850,Condo/Apartment,68,1,2,Sintra,Cacém e São Marcos
+850,Condo/Apartment,80,1,2,Sintra,Cacém e São Marcos
+850,Condo/Apartment,84,1,2,Sintra,Massamá e Monte Abraão
+850,Condo/Apartment,147,2,3,Vila Franca de Xira,Póvoa de Santa Iria e Forte da Casa
+850,Condo/Apartment,87,2,3,Vila Franca de Xira,Póvoa de Santa Iria e Forte da Casa
+865,Condo/Apartment,84,1,2,Odivelas,Ramada e Caneças
+875,Condo/Apartment,70,1,2,Lisboa,Benfica
+875,Condo/Apartment,50,1,1,Lisboa,Campo de Ourique
+880,Condo/Apartment,84,1,2,Lisboa,São Domingos de Benfica
+880,Condo/Apartment,90,2,2,Odivelas,Odivelas
+890,Condo/Apartment,70,1,2,Amadora,Venteira
+890,Condo/Apartment,70,1,2,Lisboa,Avenidas Novas
+890,Condo/Apartment,75,1,1,Lisboa,Marvila
+890,Condo/Apartment,70,1,2,Odivelas,Odivelas
+890,Condo/Apartment,75,1,2,Oeiras,Oeiras e São Julião da Barra
+890,Condo/Apartment,94,1,3,Vila Franca de Xira,Vila Franca de Xira
+895,Condo/Apartment,48,1,1,Lisboa,Arroios
+900,Condo/Apartment,84,1,2,Amadora,Alfragide
+900,Condo/Apartment,128,2,2,Amadora,Falagueira  Venda Nova
+900,Condo/Apartment,90,2,3,Amadora,Venteira
+900,Condo/Apartment,52,0,0,Cascais,Cascais e Estoril
+900,Condo/Apartment,73,2,2,Cascais,São Domingos de Rana
+900,Condo/Apartment,55,1,2,Lisboa,Alvalade
+900,Condo/Apartment,79,1,2,Lisboa,Beato
+900,Condo/Apartment,85,1,2,Lisboa,Belém
+900,Condo/Apartment,70,1,2,Lisboa,Belém
+900,Condo/Apartment,74,1,2,Lisboa,Benfica
+900,Condo/Apartment,75,0,3,Lisboa,Benfica
+900,Condo/Apartment,71,1,1,Lisboa,Campo de Ourique
+900,Condo/Apartment,70,0,1,Lisboa,Lumiar
+900,Condo/Apartment,42,1,1,Lisboa,Misericórdia
+900,Condo/Apartment,48,1,1,Lisboa,Misericórdia
+900,Condo/Apartment,55,1,2,Lisboa,Olivais
+900,Condo/Apartment,75,1,2,Lisboa,Santa Clara
+900,Condo/Apartment,113,2,2,Lisboa,Santa Clara
+900,Condo/Apartment,55,1,2,Lisboa,São Vicente
+900,Condo/Apartment,90,1,3,Lisboa,São Vicente
+900,Condo/Apartment,67,1,1,Lisboa,São Vicente
+900,Condo/Apartment,122,2,3,Loures,Loures
+900,Condo/Apartment,58,1,2,Loures,Moscavide e Portela
+900,Condo/Apartment,55,2,1,Loures,Sacavém e Prior Velho
+900,Condo/Apartment,86,2,2,Loures,Sacavém e Prior Velho
+900,Condo/Apartment,87,1,2,Loures,Santo António dos Cavaleiros e Frielas
+900,Condo/Apartment,80,1,2,Mafra,Mafra
+900,Condo/Apartment,67,2,1,Odivelas,Odivelas
+900,Condo/Apartment,94,2,3,Odivelas,Odivelas
+900,Condo/Apartment,106,4,3,Odivelas,Pontinha e Famões
+900,Condo/Apartment,60,1,2,Oeiras,Algés
+900,Condo/Apartment,63,1,1,Oeiras,Algés
+900,Condo/Apartment,62,1,1,Oeiras,Algés
+900,Condo/Apartment,101,1,2,Oeiras,Porto Salvo
+900,Condo/Apartment,75,1,2,Sintra,Massamá e Monte Abraão
+900,Condo/Apartment,78,1,2,Sintra,Queluz e Belas
+925,Condo/Apartment,56,1,1,Lisboa,Arroios
+950,Condo/Apartment,115,2,3,Amadora,Venteira
+950,Condo/Apartment,95,2,3,Amadora,Venteira
+950,Condo/Apartment,82,2,2,Cascais,Carcavelos e Parede
+950,Condo/Apartment,100,1,3,Lisboa,Arroios
+950,Condo/Apartment,80,1,2,Lisboa,Arroios
+950,Condo/Apartment,74,1,2,Lisboa,Arroios
+950,Condo/Apartment,50,1,1,Lisboa,Avenidas Novas
+950,Condo/Apartment,85,1,2,Lisboa,Avenidas Novas
+950,Condo/Apartment,88,1,2,Lisboa,Benfica
+950,Condo/Apartment,56,1,2,Lisboa,Campolide
+950,Condo/Apartment,56,1,2,Lisboa,Campolide
+950,Condo/Apartment,40,1,1,Lisboa,Estrela
+950,Condo/Apartment,72,1,1,Lisboa,Lumiar
+950,Condo/Apartment,52,1,1,Lisboa,Misericórdia
+950,Condo/Apartment,79,1,2,Lisboa,Penha de França
+950,Condo/Apartment,74,2,2,Lisboa,Penha de França
+950,Condo/Apartment,67,1,2,Lisboa,São Domingos de Benfica
+950,Condo/Apartment,90,2,2,Lisboa,São Domingos de Benfica
+950,Condo/Apartment,98,2,4,Mafra,Ericeira
+950,Condo/Apartment,114000,2,3,Mafra,Mafra
+950,Condo/Apartment,82,3,1,Odivelas,Odivelas
+950,Condo/Apartment,79,1,2,Odivelas,Odivelas
+950,Condo/Apartment,91,1,3,Odivelas,Odivelas
+950,Condo/Apartment,75,1,2,Oeiras,Algés
+950,Condo/Apartment,71,1,2,Oeiras,Algés
+950,Condo/Apartment,110,2,2,Oeiras,Barcarena
+950,Condo/Apartment,85,1,2,Oeiras,Carnaxide e Queijas
+950,Condo/Apartment,102,2,2,Oeiras,Oeiras e São Julião da Barra
+950,Condo/Apartment,95,2,2,Sintra,Sintra (Santa Maria e São Miguel
+970,Condo/Apartment,78,1,1,Lisboa,Misericórdia
+970,Condo/Apartment,49,1,1,Lisboa,São Domingos de Benfica
+975,Condo/Apartment,88,2,2,Cascais,São Domingos de Rana
+975,Condo/Apartment,89,2,3,Lisboa,Benfica
+975,Condo/Apartment,75,1,2,Lisboa,Campo de Ourique
+975,Condo/Apartment,73,1,2,Lisboa,Lumiar
+975,Condo/Apartment,86,1,2,Oeiras,Algés
+980,Condo/Apartment,70,1,1,Lisboa,Areeiro
+980,Condo/Apartment,68,1,1,Lisboa,Benfica
+980,Condo/Apartment,73,1,2,Lisboa,Penha de França
+985,Condo/Apartment,143,2,2,Vila Franca de Xira,Póvoa de Santa Iria e Forte da Casa
+990,Condo/Apartment,92,1,3,Lisboa,Penha de França
+990,Condo/Apartment,95,2,2,Odivelas,Odivelas
+1000,Condo/Apartment,98,2,3,Amadora,Alfragide
+1000,Condo/Apartment,94,2,3,Amadora,Encosta do Sol
+1000,Condo/Apartment,101,2,4,Amadora,Mina de Água
+1000,Condo/Apartment,80,1,3,Cascais,Carcavelos e Parede
+1000,Condo/Apartment,79,1,3,Cascais,Carcavelos e Parede
+1000,Condo/Apartment,86,2,3,Cascais,Cascais e Estoril
+1000,Condo/Apartment,95,2,2,Cascais,São Domingos de Rana
+1000,Condo/Apartment,95,1,2,Lisboa,Alvalade
+1000,Condo/Apartment,79,1,2,Lisboa,Areeiro
+1000,Condo/Apartment,83,1,3,Lisboa,Arroios
+1000,Condo/Apartment,76,1,2,Lisboa,Arroios
+1000,Condo/Apartment,105,0,2,Lisboa,Arroios
+1000,Condo/Apartment,54,0,1,Lisboa,Avenidas Novas
+1000,Condo/Apartment,39,0,1,Lisboa,Belém
+1000,Condo/Apartment,74,1,2,Lisboa,Benfica
+1000,Condo/Apartment,80,1,2,Lisboa,Benfica
+1000,Condo/Apartment,73,2,1,Lisboa,Campolide
+1000,Condo/Apartment,68,0,2,Lisboa,Estrela
+1000,Condo/Apartment,73,1,1,Lisboa,Lumiar
+1000,Condo/Apartment,67,1,1,Lisboa,Lumiar
+1000,Condo/Apartment,78,1,2,Lisboa,Lumiar
+1000,Condo/Apartment,83,1,2,Lisboa,Lumiar
+1000,Condo/Apartment,85,2,2,Lisboa,Lumiar
+1000,Condo/Apartment,83,1,2,Lisboa,Lumiar
+1000,Condo/Apartment,75,1,2,Lisboa,Misericórdia
+1000,Condo/Apartment,62,2,2,Lisboa,Misericórdia
+1000,Condo/Apartment,77,1,2,Lisboa,Santa Clara
+1000,Condo/Apartment,39,1,1,Lisboa,Santo António
+1000,Condo/Apartment,78,1,2,Lisboa,São Domingos de Benfica
+1000,Condo/Apartment,65,1,2,Lisboa,São Domingos de Benfica
+1000,Condo/Apartment,126,2,2,Mafra,Mafra
+1000,Condo/Apartment,83,2,3,Oeiras,Algés
+1000,Condo/Apartment,63,1,3,Oeiras,Porto Salvo
+1025,Condo/Apartment,75,1,2,Lisboa,Campo de Ourique
+1050,Condo/Apartment,99,1,2,Cascais,Carcavelos e Parede
+1050,Condo/Apartment,74,1,2,Cascais,Carcavelos e Parede
+1050,Condo/Apartment,60,1,1,Lisboa,Alvalade
+1050,Condo/Apartment,71,1,3,Lisboa,Alvalade
+1050,Condo/Apartment,84,1,2,Lisboa,Areeiro
+1050,Condo/Apartment,93,2,3,Lisboa,Arroios
+1050,Condo/Apartment,75,1,1,Lisboa,Belém
+1050,Condo/Apartment,75,1,1,Lisboa,Belém
+1050,Condo/Apartment,66,1,2,Lisboa,Campo de Ourique
+1050,Condo/Apartment,67,2,1,Lisboa,Estrela
+1050,Condo/Apartment,85,1,2,Odivelas,Odivelas
+1075,Condo/Apartment,70,1,1,Lisboa,Campo de Ourique
+1075,Condo/Apartment,70,1,1,Lisboa,Campolide
+1100,Condo/Apartment,73,2,2,Cascais,Carcavelos e Parede
+1100,Condo/Apartment,92,1,1,Cascais,Cascais e Estoril
+1100,Condo/Apartment,69,1,1,Cascais,Cascais e Estoril
+1100,Condo/Apartment,74,1,2,Cascais,Cascais e Estoril
+1100,Condo/Apartment,67,1,2,Cascais,Cascais e Estoril
+1100,Condo/Apartment,85,4,2,Cascais,São Domingos de Rana
+1100,Condo/Apartment,90,2,3,Lisboa,Alcântara
+1100,Condo/Apartment,73,1,3,Lisboa,Alvalade
+1100,Condo/Apartment,75,1,1,Lisboa,Avenidas Novas
+1100,Condo/Apartment,61,0,1,Lisboa,Avenidas Novas
+1100,Condo/Apartment,73,1,1,Lisboa,Avenidas Novas
+1100,Condo/Apartment,111,1,1,Lisboa,Belém
+1100,Condo/Apartment,100,2,3,Lisboa,Benfica
+1100,Condo/Apartment,100,2,3,Lisboa,Benfica
+1100,Condo/Apartment,70,1,1,Lisboa,Campo de Ourique
+1100,Condo/Apartment,88,2,1,Lisboa,Campo de Ourique
+1100,Condo/Apartment,84,2,2,Lisboa,Campo de Ourique
+1100,Condo/Apartment,93,1,2,Lisboa,Campolide
+1100,Condo/Apartment,33,1,1,Lisboa,Misericórdia
+1100,Condo/Apartment,42,1,1,Lisboa,Misericórdia
+1100,Condo/Apartment,69,1,1,Lisboa,Parque das Nações
+1100,Condo/Apartment,61,1,1,Lisboa,Parque das Nações
+1100,Condo/Apartment,54,1,1,Lisboa,Penha de França
+1100,Condo/Apartment,65,2,3,Lisboa,São Domingos de Benfica
+1100,Condo/Apartment,72,1,1,Lisboa,São Domingos de Benfica
+1100,Condo/Apartment,81,2,3,Lisboa,São Vicente
+1100,Condo/Apartment,120,2,3,Loures,Santo António dos Cavaleiros e Frielas
+1100,Condo/Apartment,140,2,4,Oeiras,Oeiras e São Julião da Barra
+1100,Condo/Apartment,91,1,2,Oeiras,Oeiras e São Julião da Barra
+1100,Condo/Apartment,111,2,3,Sintra,Queluz e Belas
+1130,Condo/Apartment,119,2,4,Amadora,Venteira
+1150,Condo/Apartment,116,2,2,Cascais,São Domingos de Rana
+1150,Condo/Apartment,105,1,3,Lisboa,Alvalade
+1150,Condo/Apartment,74,1,1,Lisboa,Alvalade
+1150,Condo/Apartment,95,2,3,Lisboa,Belém
+1150,Condo/Apartment,67,1,2,Lisboa,Campo de Ourique
+1150,Condo/Apartment,88,1,2,Lisboa,Campo de Ourique
+1150,Condo/Apartment,92,2,2,Lisboa,Lumiar
+1150,Condo/Apartment,82,2,3,Lisboa,São Domingos de Benfica
+1150,Condo/Apartment,93,0,3,Lisboa,São Vicente
+1150,Condo/Apartment,102,2,3,Oeiras,Carnaxide e Queijas
+1150,Condo/Apartment,90,2,3,Oeiras,Oeiras e São Julião da Barra
+1150,Condo/Apartment,85,1,2,Oeiras,Oeiras e São Julião da Barra
+1180,Condo/Apartment,65,1,1,Lisboa,Avenidas Novas
+1180,Condo/Apartment,75,1,2,Oeiras,Oeiras e São Julião da Barra
+1200,Condo/Apartment,128,2,3,Amadora,Alfragide
+1200,Condo/Apartment,108,1,2,Amadora,Alfragide
+1200,Condo/Apartment,44,1,1,Cascais,Carcavelos e Parede
+1200,Condo/Apartment,84,2,2,Cascais,Carcavelos e Parede
+1200,Condo/Apartment,85,2,2,Cascais,Cascais e Estoril
+1200,Condo/Apartment,80,2,2,Cascais,São Domingos de Rana
+1200,Condo/Apartment,118,2,3,Cascais,São Domingos de Rana
+1200,Condo/Apartment,89,1,3,Lisboa,Alvalade
+1200,Condo/Apartment,105,1,2,Lisboa,Alvalade
+1200,Condo/Apartment,92,2,3,Lisboa,Areeiro
+1200,Condo/Apartment,108,1,2,Lisboa,Areeiro
+1200,Condo/Apartment,70,1,2,Lisboa,Arroios
+1200,Condo/Apartment,68,1,3,Lisboa,Arroios
+1200,Condo/Apartment,68,1,1,Lisboa,Avenidas Novas
+1200,Condo/Apartment,80,2,2,Lisboa,Avenidas Novas
+1200,Condo/Apartment,84,2,2,Lisboa,Avenidas Novas
+1200,Condo/Apartment,85,1,2,Lisboa,Belém
+1200,Condo/Apartment,94,2,3,Lisboa,Benfica
+1200,Condo/Apartment,78,2,3,Lisboa,Benfica
+1200,Condo/Apartment,61,1,1,Lisboa,Campo de Ourique
+1200,Condo/Apartment,93,2,2,Lisboa,Campo de Ourique
+1200,Condo/Apartment,101,2,3,Lisboa,Campo de Ourique
+1200,Condo/Apartment,73,1,1,Lisboa,Lumiar
+1200,Condo/Apartment,69,1,2,Lisboa,Lumiar
+1200,Condo/Apartment,96,2,3,Lisboa,Lumiar
+1200,Condo/Apartment,83,2,2,Lisboa,Lumiar
+1200,Condo/Apartment,105,1,2,Lisboa,Lumiar
+1200,Condo/Apartment,64,1,1,Lisboa,Misericórdia
+1200,Condo/Apartment,75,1,2,Lisboa,Penha de França
+1200,Condo/Apartment,90,1,2,Lisboa,Penha de França
+1200,Condo/Apartment,84,1,1,Lisboa,Santa Maria Maior
+1200,Condo/Apartment,90,1,2,Lisboa,Santa Maria Maior
+1200,Condo/Apartment,45,1,1,Lisboa,Santa Maria Maior
+1200,Condo/Apartment,82,1,1,Lisboa,Santo António
+1200,Condo/Apartment,84,1,2,Lisboa,São Domingos de Benfica
+1200,Condo/Apartment,56,1,2,Lisboa,São Vicente
+1200,Condo/Apartment,62,1,2,Lisboa,São Vicente
+1200,Condo/Apartment,81,1,2,Loures,Moscavide e Portela
+1200,Condo/Apartment,97,2,3,Loures,Santo António dos Cavaleiros e Frielas
+1200,Condo/Apartment,80,1,3,Mafra,Ericeira
+1200,Condo/Apartment,113,2,3,Odivelas,Odivelas
+1200,Condo/Apartment,74,1,3,Odivelas,Odivelas
+1200,Condo/Apartment,88,2,2,Odivelas,Odivelas
+1200,Condo/Apartment,163,4,3,Odivelas,Pontinha e Famões
+1200,Condo/Apartment,80,2,2,Oeiras,Algés
+1200,Condo/Apartment,109,2,2,Oeiras,Carnaxide e Queijas
+1200,Condo/Apartment,136,2,2,Oeiras,Carnaxide e Queijas
+1200,Condo/Apartment,120,2,3,Oeiras,Oeiras e São Julião da Barra
+1200,Condo/Apartment,78,2,2,Oeiras,Oeiras e São Julião da Barra
+1200,Condo/Apartment,160,2,4,Sintra,Massamá e Monte Abraão
+1250,Condo/Apartment,70,2,2,Cascais,Cascais e Estoril
+1250,Condo/Apartment,120,2,3,Cascais,Cascais e Estoril
+1250,Condo/Apartment,90,1,2,Lisboa,Alcântara
+1250,Condo/Apartment,75,2,1,Lisboa,Alvalade
+1250,Condo/Apartment,72,1,2,Lisboa,Areeiro
+1250,Condo/Apartment,67,1,2,Lisboa,Arroios
+1250,Condo/Apartment,97,2,3,Lisboa,Arroios
+1250,Condo/Apartment,56,1,2,Lisboa,Arroios
+1250,Condo/Apartment,3118,2,2,Lisboa,Benfica
+1250,Condo/Apartment,102,2,3,Lisboa,Benfica
+1250,Condo/Apartment,54,1,1,Lisboa,Campo de Ourique
+1250,Condo/Apartment,89,2,2,Lisboa,Carnide
+1250,Condo/Apartment,77,1,2,Lisboa,Estrela
+1250,Condo/Apartment,50,1,1,Lisboa,Estrela
+1250,Condo/Apartment,65,1,2,Lisboa,Estrela
+1250,Condo/Apartment,117,1,2,Lisboa,Lumiar
+1250,Condo/Apartment,68,1,3,Lisboa,Olivais
+1250,Condo/Apartment,60,1,1,Lisboa,Santo António
+1250,Condo/Apartment,96,2,2,Odivelas,Póvoa de Santo Adrião e Olival Basto
+1250,Condo/Apartment,102,2,3,Oeiras,Oeiras e São Julião da Barra
+1280,Condo/Apartment,80,1,2,Lisboa,Areeiro
+1290,Condo/Apartment,66,1,1,Cascais,Cascais e Estoril
+1290,Condo/Apartment,98,1,2,Lisboa,São Domingos de Benfica
+1290,Condo/Apartment,98,2,2,Oeiras,Algés
+1300,Condo/Apartment,93,2,3,Amadora,Alfragide
+1300,Condo/Apartment,90,2,3,Lisboa,Alvalade
+1300,Condo/Apartment,69,1,2,Lisboa,Alvalade
+1300,Condo/Apartment,87,1,3,Lisboa,Alvalade
+1300,Condo/Apartment,90,1,3,Lisboa,Arroios
+1300,Condo/Apartment,78,2,3,Lisboa,Belém
+1300,Condo/Apartment,110,3,2,Lisboa,Belém
+1300,Condo/Apartment,72,1,2,Lisboa,Belém
+1300,Condo/Apartment,117,2,3,Lisboa,Benfica
+1300,Condo/Apartment,87,2,1,Lisboa,Campolide
+1300,Condo/Apartment,54,2,1,Lisboa,Estrela
+1300,Condo/Apartment,101,2,2,Lisboa,Lumiar
+1300,Condo/Apartment,78,1,1,Lisboa,Misericórdia
+1300,Condo/Apartment,93,2,2,Lisboa,Misericórdia
+1300,Condo/Apartment,122,2,3,Lisboa,Santa Clara
+1300,Condo/Apartment,62,1,2,Lisboa,Santa Maria Maior
+1300,Condo/Apartment,87,2,2,Lisboa,Santo António
+1300,Condo/Apartment,108,2,3,Odivelas,Odivelas
+1300,Condo/Apartment,89,2,2,Odivelas,Odivelas
+1300,Condo/Apartment,115,2,2,Odivelas,Odivelas
+1300,Condo/Apartment,58,1,1,Oeiras,Algés
+1300,Condo/Apartment,121,2,3,Oeiras,Oeiras e São Julião da Barra
+1300,Condo/Apartment,115,2,3,Oeiras,Porto Salvo
+1300,Condo/Apartment,100,2,3,Sintra,Massamá e Monte Abraão
+1350,Condo/Apartment,57,1,1,Cascais,Cascais e Estoril
+1350,Condo/Apartment,98,2,2,Lisboa,Alvalade
+1350,Condo/Apartment,120,2,2,Lisboa,Lumiar
+1350,Condo/Apartment,77,2,3,Lisboa,São Domingos de Benfica
+1350,Condo/Apartment,73,1,1,Lisboa,São Domingos de Benfica
+1350,Condo/Apartment,103,2,2,Lisboa,São Domingos de Benfica
+1350,Condo/Apartment,105,1,2,Oeiras,Algés
+1350,Condo/Apartment,77,1,2,Oeiras,Oeiras e São Julião da Barra
+1350,Condo/Apartment,164,2,3,Oeiras,Oeiras e São Julião da Barra
+1380,Condo/Apartment,142,2,3,Lisboa,São Domingos de Benfica
+1390,Condo/Apartment,112,3,3,Lisboa,Avenidas Novas
+1390,Condo/Apartment,80,1,2,Lisboa,Campolide
+1390,Condo/Apartment,99,2,2,Lisboa,Carnide
+1400,Condo/Apartment,119,3,2,Amadora,Alfragide
+1400,Condo/Apartment,90,3,2,Cascais,Carcavelos e Parede
+1400,Condo/Apartment,151,2,3,Cascais,São Domingos de Rana
+1400,Condo/Apartment,70,1,2,Lisboa,Arroios
+1400,Condo/Apartment,68,2,1,Lisboa,Arroios
+1400,Condo/Apartment,130,2,2,Lisboa,Arroios
+1400,Condo/Apartment,130,2,2,Lisboa,Arroios
+1400,Condo/Apartment,130,0,2,Lisboa,Arroios
+1400,Condo/Apartment,125,2,3,Lisboa,Avenidas Novas
+1400,Condo/Apartment,120,2,4,Lisboa,Avenidas Novas
+1400,Condo/Apartment,125,2,3,Lisboa,Beato
+1400,Condo/Apartment,133,2,3,Lisboa,Benfica
+1400,Condo/Apartment,104,1,4,Lisboa,Campo de Ourique
+1400,Condo/Apartment,67,1,2,Lisboa,Carnide
+1400,Condo/Apartment,75,1,2,Lisboa,Lumiar
+1400,Condo/Apartment,120,2,2,Lisboa,Lumiar
+1400,Condo/Apartment,114,2,3,Lisboa,Santa Clara
+1400,Condo/Apartment,87,1,2,Lisboa,Santa Maria Maior
+1400,Condo/Apartment,50,1,0,Lisboa,Santa Maria Maior
+1400,Condo/Apartment,83,1,1,Lisboa,Santo António
+1400,Condo/Apartment,149,2,3,Lisboa,São Domingos de Benfica
+1400,Condo/Apartment,108,2,2,Mafra,Ericeira
+1400,Condo/Apartment,116,2,3,Odivelas,Odivelas
+1425,Condo/Apartment,100,2,3,Lisboa,Santo António
+1450,Condo/Apartment,126,2,2,Lisboa,Lumiar
+1450,Condo/Apartment,92,2,2,Lisboa,Misericórdia
+1450,Condo/Apartment,57,1,0,Lisboa,Santo António
+1450,Condo/Apartment,95,2,2,Lisboa,São Domingos de Benfica
+1475,Condo/Apartment,120,2,4,Lisboa,Avenidas Novas
+1475,Condo/Apartment,116,2,3,Lisboa,Misericórdia
+1480,Condo/Apartment,86,3,3,Lisboa,São Domingos de Benfica
+1490,Condo/Apartment,99,1,2,Lisboa,Avenidas Novas
+1490,Condo/Apartment,115,1,4,Lisboa,Estrela
+1490,Condo/Apartment,141,3,4,Lisboa,Olivais
+1500,Condo/Apartment,60,1,1,Cascais,Alcabideche
+1500,Condo/Apartment,90,1,2,Cascais,Cascais e Estoril
+1500,Condo/Apartment,110,2,2,Cascais,Cascais e Estoril
+1500,Condo/Apartment,115,2,3,Lisboa,Alcântara
+1500,Condo/Apartment,68,1,2,Lisboa,Alvalade
+1500,Condo/Apartment,157,2,4,Lisboa,Areeiro
+1500,Condo/Apartment,94,2,3,Lisboa,Arroios
+1500,Condo/Apartment,112,2,3,Lisboa,Arroios
+1500,Condo/Apartment,110,1,2,Lisboa,Campo de Ourique
+1500,Condo/Apartment,66,1,2,Lisboa,Campo de Ourique
+1500,Condo/Apartment,100,2,3,Lisboa,Carnide
+1500,Condo/Apartment,89,2,3,Lisboa,Carnide
+1500,Condo/Apartment,138,2,3,Lisboa,Carnide
+1500,Condo/Apartment,93,2,3,Lisboa,Parque das Nações
+1500,Condo/Apartment,131,2,3,Lisboa,Penha de França
+1500,Condo/Apartment,108,2,4,Lisboa,Penha de França
+1500,Condo/Apartment,124,2,3,Lisboa,Penha de França
+1500,Condo/Apartment,71,1,1,Lisboa,Santo António
+1500,Condo/Apartment,100,2,3,Lisboa,Santo António
+1500,Condo/Apartment,97,2,3,Lisboa,São Vicente
+1500,Condo/Apartment,155,2,2,Loures,Sacavém e Prior Velho
+1500,Condo/Apartment,114,2,4,Odivelas,Odivelas
+1550,Condo/Apartment,83,2,2,Lisboa,Campo de Ourique
+1550,Condo/Apartment,92,2,2,Lisboa,Misericórdia
+1550,Condo/Apartment,130,2,3,Lisboa,Santo António
+1575,Condo/Apartment,155,3,4,Lisboa,Areeiro
+1600,Condo/Apartment,85,3,3,Cascais,Carcavelos e Parede
+1600,Condo/Apartment,98,1,2,Cascais,Cascais e Estoril
+1600,Condo/Apartment,80,2,1,Cascais,Cascais e Estoril
+1600,Condo/Apartment,135,2,3,Lisboa,Alvalade
+1600,Condo/Apartment,147,2,2,Lisboa,Areeiro
+1600,Condo/Apartment,100,2,3,Lisboa,Arroios
+1600,Condo/Apartment,214,3,7,Lisboa,Arroios
+1600,Condo/Apartment,65,1,2,Lisboa,Arroios
+1600,Condo/Apartment,57,1,1,Lisboa,Arroios
+1600,Condo/Apartment,140,2,2,Lisboa,Avenidas Novas
+1600,Condo/Apartment,160,2,3,Lisboa,Avenidas Novas
+1600,Condo/Apartment,125,2,4,Lisboa,Avenidas Novas
+1600,Condo/Apartment,108,2,2,Lisboa,Avenidas Novas
+1600,Condo/Apartment,135,2,3,Lisboa,Benfica
+1600,Condo/Apartment,165,2,4,Lisboa,Campolide
+1600,Condo/Apartment,96,2,2,Lisboa,Carnide
+1600,Condo/Apartment,73,1,1,Lisboa,Estrela
+1600,Condo/Apartment,110,2,3,Lisboa,Lumiar
+1600,Condo/Apartment,153,2,3,Lisboa,Lumiar
+1600,Condo/Apartment,105,3,2,Lisboa,Parque das Nações
+1600,Condo/Apartment,62,0,2,Lisboa,Santo António
+1650,Condo/Apartment,160,2,4,Lisboa,Alvalade
+1650,Condo/Apartment,119,2,4,Lisboa,Areeiro
+1650,Condo/Apartment,150,2,3,Lisboa,Avenidas Novas
+1650,Condo/Apartment,116,2,3,Loures,Sacavém e Prior Velho
+1700,Condo/Apartment,113,2,2,Cascais,Carcavelos e Parede
+1700,Condo/Apartment,115,2,3,Cascais,Carcavelos e Parede
+1700,Condo/Apartment,189,2,5,Lisboa,Areeiro
+1700,Condo/Apartment,120,1,3,Lisboa,Arroios
+1700,Condo/Apartment,148,4,3,Lisboa,Benfica
+1700,Condo/Apartment,122,2,3,Lisboa,Campo de Ourique
+1700,Condo/Apartment,130,2,4,Lisboa,Campolide
+1700,Condo/Apartment,118,2,3,Lisboa,Estrela
+1700,Condo/Apartment,78,2,1,Lisboa,Estrela
+1700,Condo/Apartment,120,2,3,Lisboa,São Domingos de Benfica
+1700,Condo/Apartment,165,3,4,Lisboa,São Domingos de Benfica
+1700,Condo/Apartment,120,2,3,Lisboa,São Domingos de Benfica
+1700,Condo/Apartment,145,3,3,Oeiras,Oeiras e São Julião da Barra
+1730,Condo/Apartment,185,2,4,Lisboa,Arroios
+1750,Condo/Apartment,169,3,4,Cascais,Carcavelos e Parede
+1750,Condo/Apartment,157,3,3,Lisboa,Alvalade
+1750,Condo/Apartment,139,3,3,Lisboa,Lumiar
+1750,Condo/Apartment,92,2,3,Lisboa,Misericórdia
+1775,Condo/Apartment,160,2,3,Lisboa,Avenidas Novas
+1800,Condo/Apartment,146,2,3,Cascais,Carcavelos e Parede
+1800,Condo/Apartment,94,2,1,Cascais,Carcavelos e Parede
+1800,Condo/Apartment,168,3,4,Lisboa,Alvalade
+1800,Condo/Apartment,129,2,4,Lisboa,Areeiro
+1800,Condo/Apartment,108,2,2,Lisboa,Arroios
+1800,Condo/Apartment,105,2,4,Lisboa,Avenidas Novas
+1800,Condo/Apartment,126,3,3,Lisboa,Belém
+1800,Condo/Apartment,81,2,2,Lisboa,Campo de Ourique
+1800,Condo/Apartment,200,2,3,Lisboa,Campolide
+1800,Condo/Apartment,134,2,3,Lisboa,Estrela
+1800,Condo/Apartment,103,2,2,Lisboa,Parque das Nações
+1800,Condo/Apartment,85,1,2,Lisboa,Santo António
+1820,Condo/Apartment,151,2,3,Lisboa,Areeiro
+1850,Condo/Apartment,115,1,2,Lisboa,Avenidas Novas
+1850,Condo/Apartment,215,3,4,Lisboa,Campolide
+1850,Condo/Apartment,152,3,3,Lisboa,Carnide
+1850,Condo/Apartment,116,,3,Lisboa,Parque das Nações
+1900,Condo/Apartment,60,1,1,Lisboa,Arroios
+1900,Condo/Apartment,160,2,3,Lisboa,Campo de Ourique
+1900,Condo/Apartment,160,2,3,Lisboa,São Domingos de Benfica
+1950,Condo/Apartment,155,2,4,Lisboa,Areeiro
+1950,Condo/Apartment,168,2,3,Lisboa,Olivais
+1950,Condo/Apartment,137,3,3,Oeiras,Porto Salvo
+2000,Condo/Apartment,130,3,3,Cascais,Alcabideche
+2000,Condo/Apartment,151,2,4,Lisboa,Areeiro
+2000,Condo/Apartment,104,2,2,Lisboa,Avenidas Novas
+2000,Condo/Apartment,45,0,2,Lisboa,Avenidas Novas
+2000,Condo/Apartment,173,0,4,Lisboa,Benfica
+2000,Condo/Apartment,193,3,4,Lisboa,Lumiar
+2000,Condo/Apartment,141,3,3,Lisboa,Parque das Nações
+2000,Condo/Apartment,81,2,2,Lisboa,Santa Maria Maior
+2000,Condo/Apartment,191,3,4,Loures,Loures
+2095,Condo/Apartment,130,4,3,Oeiras,Algés
+2100,Condo/Apartment,244,4,4,Cascais,Carcavelos e Parede
+2100,Condo/Apartment,205,2,3,Lisboa,Avenidas Novas
+2100,Condo/Apartment,158,3,4,Lisboa,Lumiar
+2100,Condo/Apartment,154,2,4,Lisboa,Santa Maria Maior
+2100,Condo/Apartment,154,3,3,Oeiras,Oeiras e São Julião da Barra
+2200,Condo/Apartment,123,3,3,Lisboa,Alvalade
+2200,Condo/Apartment,150,3,3,Lisboa,Avenidas Novas
+2200,Condo/Apartment,165,2,4,Lisboa,Lumiar
+2200,Condo/Apartment,107,2,2,Oeiras,Carnaxide e Queijas
+2250,Condo/Apartment,137,3,3,Cascais,Carcavelos e Parede
+2250,Condo/Apartment,87,2,2,Lisboa,Santa Maria Maior
+2300,Condo/Apartment,114,2,3,Cascais,Cascais e Estoril
+2300,Condo/Apartment,193,2,4,Lisboa,São Domingos de Benfica
+2350,Condo/Apartment,150,2,3,Lisboa,Campolide
+2350,Condo/Apartment,97,3,2,Lisboa,Santa Maria Maior
+2350,Condo/Apartment,140,2,2,Lisboa,Santo António
+2400,Condo/Apartment,110,3,3,Cascais,Cascais e Estoril
+2400,Condo/Apartment,150,3,3,Lisboa,Areeiro
+2400,Condo/Apartment,184,3,5,Lisboa,Areeiro
+2400,Condo/Apartment,95,2,2,Lisboa,Santo António
+2450,Condo/Apartment,189,2,2,Cascais,Cascais e Estoril
+2500,Condo/Apartment,85,1,2,Cascais,Carcavelos e Parede
+2500,Condo/Apartment,122,2,3,Lisboa,Alcântara
+2500,Condo/Apartment,109,2,4,Lisboa,Alvalade
+2500,Condo/Apartment,217,2,7,Lisboa,Arroios
+2500,Condo/Apartment,205,2,3,Lisboa,Campo de Ourique
+2500,Condo/Apartment,115,2,3,Lisboa,Campo de Ourique
+2500,Condo/Apartment,127,2,1,Lisboa,Estrela
+2500,Condo/Apartment,95,2,2,Lisboa,Misericórdia
+2500,Condo/Apartment,3333,1,2,Lisboa,Misericórdia
+2500,Condo/Apartment,175,3,4,Lisboa,Parque das Nações
+2500,Condo/Apartment,202,4,4,Lisboa,Santa Clara
+2500,Condo/Apartment,93,2,1,Lisboa,Santa Maria Maior
+2600,Condo/Apartment,148,3,3,Lisboa,Alvalade
+2600,Condo/Apartment,134,3,3,Lisboa,Santa Maria Maior
+2600,Condo/Apartment,257,2,3,Lisboa,Santo António
+2650,Condo/Apartment,119,3,3,Lisboa,Alvalade
+2700,Condo/Apartment,174,3,4,Lisboa,Parque das Nações
+2700,Condo/Apartment,168,3,3,Sintra,Sintra (Santa Maria e São Miguel
+2800,Condo/Apartment,102,2,1,Oeiras,Algés
+2800,Condo/Apartment,142,3,3,Oeiras,Oeiras e São Julião da Barra
+2850,Condo/Apartment,183,3,2,Lisboa,Avenidas Novas
+2850,Condo/Apartment,147,2,3,Lisboa,Estrela
+2900,Condo/Apartment,134,2,3,Cascais,Cascais e Estoril
+2900,Condo/Apartment,176,3,3,Lisboa,Santo António
+2950,Condo/Apartment,140,3,2,Lisboa,Avenidas Novas
+3000,Condo/Apartment,250,4,5,Lisboa,Belém
+3000,Condo/Apartment,76,1,1,Lisboa,Santo António
+3000,Condo/Apartment,104,2,2,Lisboa,Santo António
+3200,Condo/Apartment,130,3,3,Cascais,Carcavelos e Parede
+3200,Condo/Apartment,172,3,3,Lisboa,Avenidas Novas
+3200,Condo/Apartment,188,3,4,Lisboa,Parque das Nações
+3200,Condo/Apartment,283,2,10,Lisboa,Santo António
+3250,Condo/Apartment,132,2,3,Lisboa,Belém
+3300,Condo/Apartment,131,2,3,Lisboa,Alvalade
+3500,Condo/Apartment,247,4,4,Lisboa,Avenidas Novas
+3500,Condo/Apartment,110,2,3,Lisboa,Avenidas Novas
+3500,Condo/Apartment,152,3,3,Lisboa,Belém
+3500,Condo/Apartment,191,4,4,Lisboa,Estrela
+3500,Condo/Apartment,134,5,5,Lisboa,Olivais
+3500,Condo/Apartment,77,2,1,Lisboa,Santo António
+3800,Condo/Apartment,172,2,4,Cascais,Alcabideche
+4000,Condo/Apartment,296,3,5,Lisboa,Avenidas Novas
+4000,Condo/Apartment,129,2,2,Lisboa,Santo António
+4200,Condo/Apartment,370,3,4,Lisboa,Belém
+5900,Condo/Apartment,260,4,4,Lisboa,Santo António
+6000,Condo/Apartment,233,2,4,Lisboa,Avenidas Novas
+7000,Condo/Apartment,315,5,4,Lisboa,Penha de França
+7000,Condo/Apartment,274,3,5,Lisboa,Santo António
+12000,Condo/Apartment,278,4,5,Lisboa,Avenidas Novas
+12500,Condo/Apartment,410,4,4,Lisboa,Campo de Ourique
+400,House,70,1,2,Odivelas,Pontinha e Famões
+600,House,100,1,2,Alenquer,Carregado e Cadafais
+600,House,100,1,2,Mafra,Venda do Pinheiro e Santo Estêvão das Galés
+600,House,28,1,1,Odivelas,Pontinha e Famões
+775,House,50,1,2,Torres Vedras,A dos Cunhados e Maceira
+800,House,150,2,3,Mafra,Enxara do Bispo
+850,House,239,2,3,Alenquer,Abrigada e Cabanas de Torres
+1000,House,119,4,3,Lourinhã,Lourinhã e Atalaia
+1100,House,85,1,2,Lisboa,Alcântara
+1100,House,87,1,2,Oeiras,Porto Salvo
+1200,House,140,3,3,Torres Vedras,A dos Cunhados e Maceira
+1250,House,108,2,3,Cascais,Alcabideche
+1250,House,103,2,2,Cascais,Alcabideche
+1300,House,90,3,3,Mafra,Ericeira
+1300,House,154,2,3,Sintra,São João das Lampas e Terrugem
+1800,House,124,1,3,Cascais,Carcavelos e Parede
+1900,House,147,3,5,Lisboa,Olivais
+2000,House,104,2,7,Sintra,Rio de Mouro
+2200,House,175,2,3,Cascais,Carcavelos e Parede
+2200,House,181,4,4,Loures,Loures
+2350,House,124,2,3,Mafra,Ericeira
+2400,House,240,3,5,Sintra,Rio de Mouro
+2500,House,140,4,2,Cascais,Cascais e Estoril
+2500,House,229,3,3,Oeiras,Oeiras e São Julião da Barra
+2750,House,169,4,4,Cascais,São Domingos de Rana
+2800,House,202,3,5,Oeiras,Oeiras e São Julião da Barra
+2850,House,235,5,5,Oeiras,Oeiras e São Julião da Barra
+2950,House,182,3,3,Cascais,Carcavelos e Parede
+3000,House,100,4,5,Sintra,Sintra (Santa Maria e São Miguel
+3000,House,205,3,3,Sintra,Sintra (Santa Maria e São Miguel
+3500,House,190,3,3,Cascais,Alcabideche
+3500,House,212,4,4,Cascais,Cascais e Estoril
+3700,House,285,5,6,Cascais,São Domingos de Rana
+4000,House,293,4,4,Cascais,Cascais e Estoril
+6000,House,548,6,7,Cascais,Cascais e Estoril
+7750,House,216,9,9,Oeiras,Oeiras e São Julião da Barra
+8000,House,255,6,4,Cascais,Cascais e Estoril
+10000,House,420,7,6,Sintra,Queluz e Belas
+11500,House,588,5,7,Oeiras,Oeiras e São Julião da Barra
+12000,House,263,5,5,Cascais,Cascais e Estoril
+25000,House,870,7,7,Lisboa,Alvalade
